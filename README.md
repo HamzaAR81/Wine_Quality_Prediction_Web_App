@@ -68,7 +68,7 @@ Target variable:
 Follow following steps:
 1. Go to  **Command Prompt**
 
-![Command Prompt Page](https://github.com/HamzaAR81/Earth_Quake_Prediction_web_app/blob/29d0e64578d5fb3c7628aa243421d020d429bbf2/Templete/cmd.png.png)
+![Command Prompt Page](https://github.com/HamzaAR81/Wine_Quality_Prediction_Web_App/blob/d9c7ff43022af94aab98c5cb0cb31f63aed0dea8/template/image_2.png)
 
 2. Write in command prompt
     ```python
@@ -87,7 +87,7 @@ Follow following steps:
     streamlit run <path of the Web_App.py>
 
 6. This will appear:
- ![Home Page](https://github.com/HamzaAR81/Earth_Quake_Prediction_web_app/blob/29d0e64578d5fb3c7628aa243421d020d429bbf2/Templete/Web_App.png.png)
+ ![Home Page]()
 
 8. Now, fill the options and click result.
 
