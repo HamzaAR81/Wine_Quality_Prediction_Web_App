@@ -87,7 +87,7 @@ Follow following steps:
     streamlit run <path of the Web_App.py>
 
 6. This will appear:
- ![Home Page]()
+ ![Home Page](https://github.com/HamzaAR81/Wine_Quality_Prediction_Web_App/blob/44070cbb9407e6c8ca8874aedcdf1e65cffca9b2/template/image%20_1.png)
 
 8. Now, fill the options and click result.
 
