@@ -1,0 +1,9 @@
+matplotlib.pyplot
+pandas
+numpy
+seaborn
+streamlit
+scikit-learn
+tensorflow
+keras
+#-e .
