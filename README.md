@@ -1,6 +1,6 @@
 # Wine Quality Prediction App
 
-![Wine Bottles](wine_bottles.jpg)
+![Wine Bottles]([wine_bottles.jpg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.millesima.com%2Fs3%2Fattachements%2Feditorial%2Fh630px%2Fred-wine-types.jpg&tbnid=Pqqzo4kQVKxRtM&vet=12ahUKEwjvopbV1KyAAxU6nCcCHc2FBRYQMygDegUIARD6AQ..i&imgrefurl=https%3A%2F%2Fwww.millesima-usa.com%2Fblog%2Fred-wine-types-different-varieties-of-red-wines.html&docid=bFUINlk_udmFhM&w=630&h=587&q=red%20wine&ved=2ahUKEwjvopbV1KyAAxU6nCcCHc2FBRYQMygDegUIARD6AQ))
 
 ## Overview
 
