@@ -1,7 +1,5 @@
 # Wine Quality Prediction App
 
-![Wine Bottles](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.millesima.com%2Fs3%2Fattachements%2Feditorial%2Fh630px%2Fred-wine-types.jpg&tbnid=Pqqzo4kQVKxRtM&vet=12ahUKEwjvopbV1KyAAxU6nCcCHc2FBRYQMygDegUIARD6AQ..i&imgrefurl=https%3A%2F%2Fwww.millesima-usa.com%2Fblog%2Fred-wine-types-different-varieties-of-red-wines.html&docid=bFUINlk_udmFhM&w=630&h=587&q=red%20wine&ved=2ahUKEwjvopbV1KyAAxU6nCcCHc2FBRYQMygDegUIARD6AQ)
-
 ## Overview
 
 The Wine Quality Prediction App is a web-based application that utilizes an Artificial Neural Network (ANN) to predict the quality of wine based on its chemical properties. The ANN model is trained on a dataset of various wines and their respective quality ratings. Users can input the wine's chemical characteristics into the app, and it will provide an estimate of the wine's quality.
